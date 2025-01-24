@@ -37,13 +37,13 @@ export {
   Grid,
   Row,
   Skeleton,
-  Steps,
   Tag,
   Tree,
   TreeSelect,
   Typography,
   Upload,
 } from 'antd';
+export { Layout } from 'antd-v5';
 
 /*
  * Components that conflict with the ones in src/components.
